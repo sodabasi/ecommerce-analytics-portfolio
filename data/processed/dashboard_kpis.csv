@@ -1,0 +1,6 @@
+metric,value,format
+Total Revenue,4562032.8100000005,currency
+Total Customers,1982.0,number
+Avg Order Value,456.20328100000006,currency
+Customer Satisfaction,4.2779,percentage
+Mobile Usage,59.3,percentage

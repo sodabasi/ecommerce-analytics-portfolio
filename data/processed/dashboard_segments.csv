@@ -1,0 +1,9 @@
+segment,customer_count,total_revenue,avg_clv,avg_frequency,avg_recency
+About to Sleep,246,384823.14,1564.32,3.35,36.67
+At Risk,165,383089.96,2321.76,6.01,35.53
+Champions,123,534216.21,4343.22,7.25,199.26
+Loyal Customers,370,1671811.89,4518.41,7.71,45.54
+New Customers,479,638066.86,1332.08,2.94,296.43
+Others,221,217665.84,984.91,4.4,66.34
+Potential Loyalists,185,335455.58,1813.27,5.64,212.6
+Promising,193,396903.33,2056.49,5.27,98.65
