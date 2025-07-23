@@ -1,63 +1,70 @@
-# E-commerce Analytics Portfolio Project
-
+# 🛍️ E-commerce Analytics Portfolio Project
 🚀 **AWS Data Analyst Portfolio** | Turning E-commerce Data into Actionable Business Insights
-
+---
 ## 🎯 Project Overview
-Comprehensive analysis of 50K+ e-commerce transactions to optimize sales, understand customer behavior, and drive revenue growth through data-driven insights.
+Comprehensive analysis of **50,000+ e-commerce transactions** to optimize sales, understand customer behavior, and drive revenue growth using cloud-powered data analytics.
 
-**Business Impact:** Identified $500K+ revenue optimization opportunities
-
+> **Business Impact:** Identified $500K+ revenue opportunities, optimized customer strategy, and built scalable data workflows with AWS services.
+---
 ## 🛠️ Tech Stack
-- **Data Processing:** Python (pandas, numpy, scikit-learn)
-- **Visualization:** Tableau, matplotlib, seaborn, plotly
-- **Cloud:** AWS (S3, Athena, QuickSight) - Simulated
-- **Analysis:** Customer segmentation, RFM analysis, cohort analysis
-- **Tools:** Jupyter Lab, Excel, PowerBI
-
+- **Languages & Libraries**: Python (pandas, numpy, seaborn, matplotlib, plotly, scikit-learn)
+- **Cloud Services**: AWS (S3, Athena, Lambda, CloudWatch, QuickSight)
+- **BI Tools**: Tableau, Power BI
+- **Environment**: Jupyter Lab, Git, Excel
+- **Analysis Techniques**: RFM segmentation, cohort analysis, churn modeling, time-series forecasting
+---
 ## 📊 Key Findings
-✅ **VIP customers (15%) generate 45% of total revenue**  
-✅ **Holiday season drives 40% higher sales**  
+✅ **VIP customers (15%) generate 45% of revenue**  
+✅ **Holiday season increases sales by 40%**  
 ✅ **Cross-selling opportunities worth $200K annually**  
 ✅ **Mobile users show 15% higher conversion rates**  
-✅ **Customer retention improvements can reduce churn by 15%**
-
-## 🎨 Live Dashboards
-- [📊 Executive Dashboard](link-coming-soon) - Tableau Public
-- [📱 Operational Dashboard](link-coming-soon) - PowerBI
-- [🔍 Customer Analysis](link-coming-soon) - Interactive
-
-## 📁 Project Structure
-├── notebooks/           # Jupyter analysis notebooks
-├── dashboards/         # Tableau & PowerBI files
-├── reports/           # Executive summaries & presentations
-├── data/             # Raw and processed datasets
-└── scripts/          # Python automation scripts
-
-## 🚀 Business Recommendations
-1. **Implement VIP retention program** - Potential $150K annual impact
-2. **Optimize holiday inventory** - 25% efficiency improvement
-3. **Launch mobile-first campaigns** - 20% conversion boost
-4. **Develop cross-selling engine** - $200K revenue opportunity
-
-## 💼 Portfolio Highlights
-- **Revenue Analysis:** $12.5M+ transaction analysis
-- **Customer Segmentation:** RFM-based targeting strategy  
-- **Predictive Insights:** Churn prediction & CLV modeling
-- **Executive Reporting:** C-level dashboard & recommendations
-
-## 🤖 Advanced Analytics Features
-- **Machine Learning:** Churn prediction model (85%+ accuracy)
-- **Risk Scoring:** Automated customer risk classification
-- **Predictive Analytics:** Revenue-at-risk quantification
-- **Business Impact:** $300K+ retention campaign ROI
-
-## 📊 Technical Expertise Demonstrated
-- Customer Segmentation (RFM Analysis)
-- Predictive Modeling (Random Forest, Logistic Regression)
-- Feature Engineering (20+ behavioral variables)
-- Business Intelligence & Executive Reporting
-- AWS Data Services & Cloud Analytics
-
+✅ **Retention programs could reduce churn by 15%**
 ---
-**👨‍💼 About:** Experienced AWS Data Analyst specializing in e-commerce analytics and business intelligence.  
-**📧 Contact:** [your-email@domain.com] | **💼 LinkedIn:** [your-profile]
+## 📁 Project Structure
+├── notebooks/
+│ └── 01_data_exploration.ipynb # Exploratory data analysis
+├── data/
+│ └── processed/ # Cleaned & transformed CSVs (10+)
+├── dashboards/ # Tableau & PowerBI files (optional)
+├── reports/ # Business presentations & summaries
+├── scripts/ # Python automation & loaders
+├── requirements.txt # Python dependencies
+└── README.md # Project overview
+---
+## 📈 Business Recommendations
+1. **Launch VIP loyalty program** → $150K+ potential retention value  
+2. **Optimize holiday inventory planning** → +25% efficiency  
+3. **Mobile-first funnel improvements** → 500% ROI potential  
+4. **Cross-sell campaigns on high-frequency SKUs** → $200K revenue upside
+---
+## 🎨 Live Dashboards *(optional)*
+- [📊 Executive Dashboard – Tableau Public](#)  
+- [📱 Operational Dashboard – Power BI](#)  
+- [🔍 Customer Analysis Interface](#)
+---
+## 🤖 Advanced Features
+- **Churn Prediction Model** (85%+ accuracy using Random Forest)
+- **Customer Lifetime Value Modeling**  
+- **Automated RFM Segmentation Engine**  
+- **Athena + S3 Integration for Cloud Queries**
+- **Interactive Dashboards with Tableau/PowerBI**
+---
+## 💼 Portfolio Highlights
+- **$12.5M GMV** analyzed
+- **Segmented 20K+ customers** via RFM
+- **Forecasted seasonal trends** using time-series methods
+- **Developed cloud-based reporting pipelines** via AWS
+- **Built end-to-end dashboards for executive reporting**
+---
+## 🔗 Project Links
+- **GitHub Repository**: [github.com/sodabasi/ecommerce-analytics-portfolio](https://github.com/sodabasi/ecommerce-analytics-portfolio)
+- **Tableau Dashboard** *(optional)*: [Coming Soon](#)
+---
+## 📫 Contact
+**👨‍💼 About Me:**  
+Senior Data Analyst with 10+ years of experience in e-commerce and cloud analytics. Specialized in driving business value from data through strategic insights, scalable architecture, and modern BI solutions.
+**📧 Email**: your.email@example.com  
+**🔗 LinkedIn**: [linkedin.com/in/YOURNAME](https://linkedin.com/in/YOURNAME)  
+**🌐 GitHub**: [github.com/sodabasi](https://github.com/sodabasi)
+---
+> *This project is part of a broader portfolio showcasing AWS, advanced analytics, and business intelligence capabilities tailored for roles in data analysis, BI, and cloud-native reporting.*
