@@ -21,15 +21,18 @@ Comprehensive analysis of **50,000+ e-commerce transactions** to optimize sales,
 ✅ **Retention programs could reduce churn by 15%**
 ---
 ## 📁 Project Structure
-├── notebooks/
-│ └── 01_data_exploration.ipynb # Exploratory data analysis
+```
+ecommerce-analytics-portfolio/
+├── notebooks/ # Jupyter analysis notebooks
+│ └── 01_data_exploration.ipynb Exploratory data analysis
 ├── data/
-│ └── processed/ # Cleaned & transformed CSVs (10+)
+│ └── processed/ Cleaned & transformed CSVs (10+)
 ├── dashboards/ # Tableau & PowerBI files (optional)
-├── reports/ # Business presentations & summaries
+├── reports/ # Executive summaries & presentations
 ├── scripts/ # Python automation & loaders
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
+```
 ---
 ## 📈 Business Recommendations
 1. **Launch VIP loyalty program** → $150K+ potential retention value  
