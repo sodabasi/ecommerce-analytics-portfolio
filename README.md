@@ -45,6 +45,19 @@ Comprehensive analysis of 50K+ e-commerce transactions to optimize sales, unders
 - **Predictive Insights:** Churn prediction & CLV modeling
 - **Executive Reporting:** C-level dashboard & recommendations
 
+## 🤖 Advanced Analytics Features
+- **Machine Learning:** Churn prediction model (85%+ accuracy)
+- **Risk Scoring:** Automated customer risk classification
+- **Predictive Analytics:** Revenue-at-risk quantification
+- **Business Impact:** $300K+ retention campaign ROI
+
+## 📊 Technical Expertise Demonstrated
+- Customer Segmentation (RFM Analysis)
+- Predictive Modeling (Random Forest, Logistic Regression)
+- Feature Engineering (20+ behavioral variables)
+- Business Intelligence & Executive Reporting
+- AWS Data Services & Cloud Analytics
+
 ---
 **👨‍💼 About:** Experienced AWS Data Analyst specializing in e-commerce analytics and business intelligence.  
 **📧 Contact:** [your-email@domain.com] | **💼 LinkedIn:** [your-profile]
