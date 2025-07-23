@@ -14,14 +14,16 @@ Comprehensive analysis of **50,000+ e-commerce transactions** to optimize sales,
 - **Analysis Techniques**: RFM segmentation, cohort analysis, churn modeling, time-series forecasting
 ---
 ## 📊 Key Findings
+```
 ✅ **VIP customers (15%) generate 45% of revenue**  
 ✅ **Holiday season increases sales by 40%**  
 ✅ **Cross-selling opportunities worth $200K annually**  
 ✅ **Mobile users show 15% higher conversion rates**  
 ✅ **Retention programs could reduce churn by 15%**
+```
 ---
 ## 📁 Project Structure
-'''
+```
 ecommerce-analytics-portfolio/
 ├── notebooks/ # Jupyter analysis notebooks
 │ └── 01_data_exploration.ipynb Exploratory data analysis
@@ -32,7 +34,7 @@ ecommerce-analytics-portfolio/
 ├── scripts/ # Python automation & loaders
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
-'''
+```
 ---
 ## 📈 Business Recommendations
 1. **Launch VIP loyalty program** → $150K+ potential retention value  
