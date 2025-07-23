@@ -21,7 +21,7 @@ Comprehensive analysis of **50,000+ e-commerce transactions** to optimize sales,
 ✅ **Retention programs could reduce churn by 15%**
 ---
 ## 📁 Project Structure
-```
+
 ecommerce-analytics-portfolio/
 ├── notebooks/ # Jupyter analysis notebooks
 │ └── 01_data_exploration.ipynb Exploratory data analysis
@@ -32,7 +32,7 @@ ecommerce-analytics-portfolio/
 ├── scripts/ # Python automation & loaders
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
-```
+
 ---
 ## 📈 Business Recommendations
 1. **Launch VIP loyalty program** → $150K+ potential retention value  
@@ -66,8 +66,8 @@ ecommerce-analytics-portfolio/
 ## 📫 Contact
 **👨‍💼 About Me:**  
 Senior Data Analyst with 10+ years of experience in e-commerce and cloud analytics. Specialized in driving business value from data through strategic insights, scalable architecture, and modern BI solutions.
-**📧 Email**: your.email@example.com  
-**🔗 LinkedIn**: [linkedin.com/in/YOURNAME](https://linkedin.com/in/YOURNAME)  
+**📧 Email**: salihodabasi@gmail.com  
+**🔗 LinkedIn**: [linkedin.com/in/odabasi](https://linkedin.com/in/odabasi)  
 **🌐 GitHub**: [github.com/sodabasi](https://github.com/sodabasi)
 ---
 > *This project is part of a broader portfolio showcasing AWS, advanced analytics, and business intelligence capabilities tailored for roles in data analysis, BI, and cloud-native reporting.*
